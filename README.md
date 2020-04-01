@@ -22,12 +22,12 @@ Este projeto foi desenvolvido com as seguinte ferramenta:
 
 ### :recycle: Como contribuir
 
-- Você pode acessálo no Notion e duplicar o documento;
+- Você pode ter acesso a ele usando o Notion e duplicar o documento;
 
 
 ### :mortar_board: Professor?
 
-desafio propostp pelo <b>Professor e inspiração</b> [Diego Fernandes](https://github.com/diego3g)
+desafio proposto pelo <b>Professor e inspiração</b> [Diego Fernandes](https://github.com/diego3g)
 
 ### :memo: Licença
 
